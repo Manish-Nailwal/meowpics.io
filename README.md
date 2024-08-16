@@ -1,22 +1,3 @@
-### LinkedIn Post
-
-🚀 **Exciting Project Launch: meowpics.io!** 🐾
-
-I’m thrilled to share my latest project, [meowpics.io](http://devlinkup.free.nf/meowpic.io/meow.html)! 🎉 This fun web application allows users to generate random cat images, ranging from 1 to 5 at a time, simply by clicking a button. But that’s not all—users can also download the images and explore any associated tags for each image.
-
-Built using HTML, CSS, and JavaScript, this project is a great example of API calls in action and showcases my skills in front-end development. 
-
-Check out the code on GitHub here: [GitHub Repository](https://github.com/Manish-Nailwal/meowpics.io.git)
-Experience the webpage live: [meowpics.io](http://devlinkup.free.nf/meowpic.io/meow.html)
-
-Feel free to explore, provide feedback, or just enjoy some adorable cat pictures! 😺
-
-#WebDevelopment #JavaScript #APICalls #HTML #CSS #OpenSource #CatLovers #TechProjects
-
----
-
-### GitHub README.md
-
 # meowpics.io
 
 Welcome to **meowpics.io**—a fun and interactive web application that allows you to generate random cat images, view associated tags, and download your favorite pictures!
