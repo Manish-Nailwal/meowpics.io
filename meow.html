@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MeowPics.io</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css" integrity="sha512-Kc323vGBEqzTmouAECnVceyQqyqdsSiqLQISBL29aUW4U/M7pSPA/gEUZQqv1cwx4OnYxTxve5UMg5GT6L4JJg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./assets/logo.png">
+    
+</head>
+<body>
+    <h1>MeowPics.io</h1>
+    <h2>Generate and Download cute MeowPics</h2>
+    <div class="op">
+        <p class="que">How many cat pictures would you like to see?</p>
+        <div class="but">
+            <select name="limit" id="limit">
+                <option value="" >Select </option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            <button class="go"><i class="fa-solid fa-magnifying-glass"></i>&nbsp;Go</button>
+            <button class="refresh"><i class="fa-solid fa-arrows-rotate"></i> New</button>
+        </div>
+    </div>
+    <div class="img"></div>
+    
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script> <!-- axios adder -->
+    <script src="app.js"></script>
+</body>
+</html>
